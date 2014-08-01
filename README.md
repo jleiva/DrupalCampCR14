@@ -33,4 +33,5 @@ Links del Drupal Camp Costa Rica 2014
 #### [The Future of the CMS: Web Systems, Not Websites](http://drupalcamp.cr/en/sesion/future-cms-web-systems-not-websites) por Todd Nienkerk
 
 * [Presentación](https://www.dropbox.com/s/ottp8davilu4wld/future-of-the-cms-drupalcr-2014-07-31.pdf)
+* [Alberto Rojas - Notas de la sesi&oacute;n](https://docs.google.com/a/backcountry.com/document/d/16Gw8-SB3DDNNE32BPhSEQEdG8aF1apUV5Uq7Rts7ugU/edit#heading=h.a0d9nyi9fi9u)
 
