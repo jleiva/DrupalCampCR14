@@ -16,3 +16,7 @@ Links del Drupal Camp Costa Rica 2014
 #### [Responsive en Drupal 7: Lo bueno, lo malo y lo feo](http://drupalcamp.cr/sesion/responsive-en-drupal-7-lo-bueno-lo-malo-y-lo-feo) por Andrés Díaz
 
 * [Presentación](http://drupalcamp.cr/sites/default/files/slides/responsive-drupal7.pdf)
+
+#### [El Futuro del Diseño de Interacciones](http://drupalcamp.cr/sesion/el-futuro-del-dise%C3%B1o-de-interacciones) por Iván Alarcón
+
+* [Presentación](http://www.slideshare.net/ivanalarcon/el-futuro-del-diseno-de-interacciones)
