@@ -12,3 +12,7 @@ Links del Drupal Camp Costa Rica 2014
 * Canales: IRC #drupal-contribute, #drupal-es
 * Tool: [https://dreditor.org/](https://dreditor.org/)
 * [Contribute to documentation - Oficial](https://www.drupal.org/contribute/documentation)
+
+#### [Responsive en Drupal 7: Lo bueno, lo malo y lo feo](http://drupalcamp.cr/sesion/responsive-en-drupal-7-lo-bueno-lo-malo-y-lo-feo)
+
+* [Presentación](http://drupalcamp.cr/sites/default/files/slides/responsive-drupal7.pdf)
