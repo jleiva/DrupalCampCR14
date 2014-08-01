@@ -7,7 +7,7 @@ Links del Drupal Camp Costa Rica 2014
 
 * [Github DrupalCamp-Ionic-Mobile-App](https://github.com/kevinblanco/DrupalCamp-Ionic-Mobile-App)
 
-### [Cómo contribuir con Drupal](http://drupalcamp.cr/sesion/c%C3%B3mo-contribuir-con-drupal) por Marco Villegas
+#### [Cómo contribuir con Drupal](http://drupalcamp.cr/sesion/c%C3%B3mo-contribuir-con-drupal) por Marco Villegas
 
 * Canales: IRC #drupal-contribute, #drupal-es
 * Tool: [https://dreditor.org/](https://dreditor.org/)
