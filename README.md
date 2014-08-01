@@ -20,3 +20,7 @@ Links del Drupal Camp Costa Rica 2014
 #### [El Futuro del Diseño de Interacciones](http://drupalcamp.cr/sesion/el-futuro-del-dise%C3%B1o-de-interacciones) por Iván Alarcón
 
 * [Presentación](http://www.slideshare.net/ivanalarcon/el-futuro-del-diseno-de-interacciones)
+
+#### [The Symfony Way](http://drupalcamp.cr/sesion/symfony-way) por Jesus Olivas
+
+* [Presentación](http://jmolivas.com/slides/drupalcr2014/the-symfony-way/#/)
