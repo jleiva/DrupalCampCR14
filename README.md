@@ -15,4 +15,4 @@ Links del Drupal Camp Costa Rica 2014
 
 #### [Responsive en Drupal 7: Lo bueno, lo malo y lo feo](http://drupalcamp.cr/sesion/responsive-en-drupal-7-lo-bueno-lo-malo-y-lo-feo)
 
-* [Presentación](http://drupalcamp.cr/sites/default/files/slides/responsive-drupal7.pdf)
+* [Presentación](http://drupalcamp.cr/sites/default/files/slides/responsive-drupal7.pdf) por Andrés Díaz
